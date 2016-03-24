@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PopularMovie</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_sitting">SittingActivity</string>
+    <string name="Change_sort_order">order by </string>
+    <string name="key_sorting">sorting</string>
+    <string name="Most_popular_default">most popular</string>
+    <string name="highest_rated">highest-rated</string>
+    <string name="reviews">Reviews</string>
+    <string name="trailer">Trailer</string>
+    <string name="title_activity_trailer">TrailerActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_review">ReviewActivity</string>
+    <string name="popular">Popular movie</string>
+    <string name="fav">Favoriates</string>
+</resources>
